@@ -1,4 +1,4 @@
-Hi myself Aman Chaturvedi an aspiring python developer with lots of intrest in technology currently working on building my own browser without help of chromium or any of the engines just raw c++ from scratch its a year long project meanwhile I will be doing projects on side as well which is ZeroCloud a privacy focused google drive alternative
+Hi myself Aman an aspiring python developer with lots of intrest in technology currently working on building my own browser without help of chromium or any of the engines just raw c++ from scratch its a year long project meanwhile I will be doing projects on side as well which is ZeroCloud a privacy focused google drive alternative
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:caman1744@gmail.com) 
 # 💻 Tech Stack:
